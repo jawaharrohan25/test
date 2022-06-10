@@ -1,4 +1,9 @@
 print("lal")
 revised
+<<<<<<< HEAD
 revised again 1
 wsefwfw
+=======
+revised again  1
+revised again  2
+>>>>>>> login_module
